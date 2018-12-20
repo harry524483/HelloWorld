@@ -5,3 +5,7 @@ public class HelloWorld {
 		}
 	}
 }
+
+class Foo {
+	constructor(){}
+}
