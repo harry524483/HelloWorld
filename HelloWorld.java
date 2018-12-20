@@ -8,4 +8,6 @@ public class HelloWorld {
 
 class Foo {
 	constructor(){}
+
+	public static void main() {}
 }
