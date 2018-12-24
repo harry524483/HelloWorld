@@ -9,7 +9,7 @@ public class HelloWorld {
 class Foo {
 	constructor(){}
 
-	public static void main(String arg) {
+	public static void main() {
 
 	}
 }
